@@ -1,5 +1,5 @@
 # bcrypter
-bcrypter is a C++ class wrapper around the Windows BCrypt API (<bcrypt.h>) with two goals:
+bcrypter is a C++ class wrapper around the Windows CryptoAPI (<bcrypt.h>) with two goals:
 
 * Leverage classes to store/manipulate variables the developer otherwise has to juggle
 * Flexible usage *while retaining granular control*
